@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Scepticism was as much the result of knowledge, as knowledge is of scepticism.', 
   'example4':
-      'When it healed, and Jem's fears of never being able to play football were assuaged, he was seldom self-conscious about his injury.'
+      "When it healed, and Jem's fears of never being able to play football were assuaged, he was seldom self-conscious about his injury."
 };
 
 function status(statusText) {
